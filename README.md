@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Himanshu Mali  <br>🎓 3rd-year Computer Engineering student with a Minor in Data Science  <br>📊 Passionate about Data Science, Data Analytics, and problem-solving using data  <br><br>🔹 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and EDA  <br>🔹 Experience building end-to-end data projects with Streamlit dashboards  <br>🔹 Comfortable with basic frontend (React, Tailwind CSS) for showcasing analytics  <br><br>📌 Actively seeking internships in Data Science / Data Analytics  <br>🚀 Focused on building practical, industry-relevant projects and improving fundamentals  <br><br>
+👋 Hi, I'm Himanshu Mali  <br>🎓 3rd-year Computer Engineering student.  <br>📊 Passionate about Data Science, Data Analytics, and problem-solving using data  <br><br>🔹 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and EDA  <br>🔹 Experience building end-to-end data projects with Streamlit dashboards  <br>🔹 Comfortable with basic frontend (React, Tailwind CSS) for showcasing analytics  <br><br>📌 Actively seeking internships in Data Science / Data Analytics  <br>🚀 Focused on building practical, industry-relevant projects and improving fundamentals  <br><br>
 
 
 ## 🌐 Socials:
