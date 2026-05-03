@@ -1,15 +1,145 @@
+# 👋 Hey, I'm Himanshu Mali  
 
-# 💫 About Me:
-👋 Hi, I'm Himanshu Mali  <br>🎓 3rd-year Computer Engineering student.  <br>📊 Passionate about Data Science, Data Analytics, and problem-solving using data  <br><br>🔹 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and EDA  <br>🔹 Experience building end-to-end data projects with Streamlit dashboards  <br>🔹 Comfortable with basic frontend (React, Tailwind CSS) for showcasing analytics  <br><br>📌 Actively seeking internships in Data Science / Data Analytics  <br>🚀 Focused on building practical, industry-relevant projects and improving fundamentals  <br><br>
+🚀 Data Science | Machine Learning | Deep Learning  
 
+I build end-to-end data-driven applications — from data preprocessing and modeling to deployment — using real-world datasets.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/himanshu-mali-900568291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu.mali701@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+💡 Experienced in developing NLP systems, predictive models, and AI-powered tools with a focus on solving real-world problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HimanshuMali701&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me:
+🌟 **Portfolio:** https://himanshumali.vercel.app/  
+💼 **LinkedIn:** https://linkedin.com/in/himanshu-mali-900568291/  
+📧 **Email:** himanshu.mali701@gmail.com  
+
+---
+
+## 💻 Tech Stack:
+
+### 👨‍💻 Programming & Databases:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=plastic&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 Data Science & Machine Learning:
+- Pandas, NumPy, Scikit-learn  
+- Exploratory Data Analysis (EDA)  
+- Data Preprocessing & Feature Engineering  
+- Regression & Classification  
+- Model Evaluation & Optimization  
+
+---
+
+### 🤖 Deep Learning:
+- ANN, CNN, RNN, LSTM (TensorFlow)  
+
+---
+
+### 🧠 NLP & LLM:
+- Natural Language Processing (NLP)  
+- LLM Integration (Ollama)  
+
+---
+
+### 📈 Data Visualization & BI:
+- Matplotlib, Seaborn  
+- Power BI  
+- Dashboard Development (Streamlit)  
+
+---
+
+### ⚙️ Tools & Technologies:
+- Jupyter Notebook, VS Code  
+- Git & GitHub  
+- Microsoft Excel  
+- Streamlit  
+- Docker  
+
+---
+
+### 📌 Core Concepts:
+- Data Cleaning & Transformation  
+- Feature Engineering  
+- Model Development  
+- ETL Pipelines  
+
+---
+
+## 🚀 Featured Projects:
+
+### 🔹 ProjectPath AI (AI Career Project Advisor)
+- AI-based platform for skill analysis & project recommendations  
+- NLP-based resume parsing & skill extraction  
+- Generates personalized project roadmaps  
+- **Tech:** Python, React, NLP  
+
+---
+
+### 🔹 AI Dataset Assistant
+- Automated data analysis & preprocessing assistant  
+- Detects missing values, outliers, correlations  
+- LLM-powered insights & recommendations  
+- **Tech:** Python, Pandas, Scikit-learn, Streamlit, LLM  
+
+---
+
+### 🔹 Aircraft Engine RUL Prediction
+- Predictive maintenance using NASA dataset  
+- Feature engineering + time-series preprocessing  
+- Built regression models & deployed via Streamlit  
+- **Tech:** Python, ML models  
+
+---
+
+### 🔹 Customer Churn Prediction (Deep Learning)
+- Built ANN model for churn prediction  
+- Data preprocessing, encoding & tuning  
+- Deployed using Hugging Face Spaces  
+- **Tech:** TensorFlow, Scikit-learn  
+
+---
+
+### 🔹 Crop Production Forecasting
+- Regression-based yield prediction system  
+- Evaluated using RMSE, MAE, R²  
+- Built interactive Streamlit app  
+- **Tech:** Python, ML  
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=HimanshuMali701&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuMali701&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMali701&theme=radical&hide_border=false&layout=compact)
+
+---
+
+## 🏆 Achievements:
+✔️ Completed Advanced AI & ML Training (Edunet Foundation)  
+✔️ Completed Data Science, ML, DL & NLP Bootcamp (99+ hours)  
+✔️ Participant — Smart India Hackathon & ISRO Hackathon  
+✔️ Tata Forage Data Analytics Simulation  
+
+---
+
+## 🎯 Current Focus:
+🔹 Building strong Data Science & Analytics projects  
+🔹 Improving ML & Deep Learning expertise  
+🔹 Preparing for Data Science / Data Analyst roles  
+
+---
+
+## 🔥 Profile Views:
+![](https://visitcount.itsvg.in/api?id=HimanshuMali701&icon=0&color=0)
+
+---
+
+⭐ *"Turning data into insights, and insights into impactful solutions."*
