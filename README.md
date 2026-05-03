@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Himanshu Mali  
 
-🚀 Data Science | Machine Learning | Deep Learning  
+🚀 Data Science | Machine Learning | Deep Learning | Data Analysis
 
 I build end-to-end data-driven applications — from data preprocessing and modeling to deployment — using real-world datasets.  
 
@@ -88,30 +88,6 @@ I build end-to-end data-driven applications — from data preprocessing and mode
 
 ---
 
-### 🔹 Aircraft Engine RUL Prediction
-- Predictive maintenance using NASA dataset  
-- Feature engineering + time-series preprocessing  
-- Built regression models & deployed via Streamlit  
-- **Tech:** Python, ML models  
-
----
-
-### 🔹 Customer Churn Prediction (Deep Learning)
-- Built ANN model for churn prediction  
-- Data preprocessing, encoding & tuning  
-- Deployed using Hugging Face Spaces  
-- **Tech:** TensorFlow, Scikit-learn  
-
----
-
-### 🔹 Crop Production Forecasting
-- Regression-based yield prediction system  
-- Evaluated using RMSE, MAE, R²  
-- Built interactive Streamlit app  
-- **Tech:** Python, ML  
-
----
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=HimanshuMali701&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -122,14 +98,6 @@ I build end-to-end data-driven applications — from data preprocessing and mode
 
 ---
 
-## 🏆 Achievements:
-✔️ Completed Advanced AI & ML Training (Edunet Foundation)  
-✔️ Completed Data Science, ML, DL & NLP Bootcamp (99+ hours)  
-✔️ Participant — Smart India Hackathon & ISRO Hackathon  
-✔️ Tata Forage Data Analytics Simulation  
-
----
-
 ## 🎯 Current Focus:
 🔹 Building strong Data Science & Analytics projects  
 🔹 Improving ML & Deep Learning expertise  
@@ -137,9 +105,5 @@ I build end-to-end data-driven applications — from data preprocessing and mode
 
 ---
 
-## 🔥 Profile Views:
-![](https://visitcount.itsvg.in/api?id=HimanshuMali701&icon=0&color=0)
-
----
 
 ⭐ *"Turning data into insights, and insights into impactful solutions."*
