@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Himanshu Mali  
+# Hey, I'm Himanshu Mali  
 
 🚀 Data Science | Machine Learning | Deep Learning | Data Analysis
 
